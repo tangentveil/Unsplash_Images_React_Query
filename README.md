@@ -161,6 +161,4 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 #### Vite ENV Vars
 
 - .env : must be included in .gitignore
-#   U n s p l a s h _ I m a g e s _ R e a c t _ Q u e r y 
- 
- 
+#
