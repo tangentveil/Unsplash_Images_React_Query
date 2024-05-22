@@ -1,4 +1,4 @@
-## [Course](https://johnsmilga.com/)
+## [Source](https://johnsmilga.com/)
 ## Steps
 
 #### Setup
